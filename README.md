@@ -99,7 +99,7 @@
 ### 1、申请加入
 
 1. 向助教发送自己的github用户名或邮箱
-2. 关注[组织页面](https://github.com/RM-camp-for-high-school-students)状态，留意页面上方通知。![image-20220129231030616](https://s2.loli.net/2022/01/29/zKcnEQ4ZG5CNpM2.png)
+2. 关注[组织页面](https://github.com/RM-camp-for-high-school-students)或邮箱状态，留意页面上方通知。![image-20220129231030616](https://s2.loli.net/2022/01/29/zKcnEQ4ZG5CNpM2.png)
 
 ### 2、下载代码
 
