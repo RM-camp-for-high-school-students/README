@@ -85,7 +85,7 @@
 
 ### 3、日常维护
 
-- 使用git进行协同开发。（待补充）
+- 使用git进行协同开发。[git 入门教程](https://github.com/RM-camp-for-high-school-students/README/blob/main/git%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md)
 - 不熟悉git指令的助教可以使用github desktop for Linux，具体教程见[Github Desktop 使用说明](https://github.com/RM-camp-for-high-school-students/README/blob/main/Github%20Desktop%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
 
